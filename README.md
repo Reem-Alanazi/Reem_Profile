@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @reemfawaz1
-- 👀 I’m interested in ...
+- 👀 I’m interested in Programing
 - 🌱 I’m currently learning ... ~~Kotlin~~
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on **My Project**
 - 📫 How to reach me ...  **Slack**
 
 <!---
